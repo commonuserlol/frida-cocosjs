@@ -3,11 +3,12 @@ Reverse engineering apps which using cocos2d-x (js) for android
 
 Features:
 * Extract .jsc files from APK
-* Create Frida script to change .jsc files at runtime
+* Create standalone Frida script to change .jsc files at runtime
 
 # Requirements
 Node:
 * `esbuild` (run `npm i`)
+
 Python:
 * `frida-tools`
 * `typer`
