@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@types/frida-gum": "^18.7.0",
+    "esbuild": "^0.23.0"
+  },
+  "scripts": {
+    "dump-key": "npx esbuild --bundle src/dump-key.ts --outfile=index.js --sourcemap=inline"
+  }
+}
