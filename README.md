@@ -10,6 +10,7 @@ Node:
 * `esbuild` (run `npm i`)
 
 Python:
+* `xxtea-py`
 * `frida-tools`
 * `typer`
 
